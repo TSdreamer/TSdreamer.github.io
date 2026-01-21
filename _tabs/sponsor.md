@@ -3,14 +3,42 @@ icon: fas fa-handshake
 order: 7
 ---
 
-# 🤝 Help Tianyi Continue to Grow !
+# Support & Collaboration
 
-Tianyi's independent work is carried out by himself and partially sponsored by an industrial supplier, and this site is self-hosted. If you'd like to help Tianyi grow faster, consider supporting him through one of the following options:
+This site documents independent research across energy systems, electrochemical technologies, and applied modelling. All content—analysis, writing, and technical infrastructure—is developed and maintained as part of ongoing work in these fields.
 
-You can support Tianyi and Tianyi's work directly:
+Where relevant, selective collaboration with industry partners informs specific projects.
 
-- [Shop at Taobao](https://item.taobao.com/item.htm?abbucket=20&id=757057832446&spm=a230r.7195193.1997079397.6.79b73e0bdXJ062)
-- [Visit Tianyi's Company's Website](https://www.tsuenergy.com)
-- [Donating Directly](https://www.paypal.com/paypalme/Tianyima06) on PayPal
+---
 
-Your arrival has already made Tianyi feel grateful. Even without any sponsorship, it's completely okay. I'm looking forward to becoming friends with you.
+## Collaboration
+
+**Industry & Project Partnerships**  
+For discussions on energy systems consulting, techno-economic analysis, or joint research initiatives:  
+→ [TianSu Energy](https://www.tsuenergy.com)
+
+**Academic & Technical Exchange**  
+Open to conversations on PEM electrolysis, hydrogen economics, multi-energy system optimisation, or related topics. Reach out via the contact details on the main site.
+
+---
+
+## Support
+
+If you find the research or resources here useful, there are a few optional ways to contribute:
+
+| Channel | Purpose |
+|---------|---------|
+| [PayPal](https://www.paypal.com/paypalme/Tianyima06) | Direct support for independent research |
+| [Taobao](https://item.taobao.com/item.htm?abbucket=20&id=757057832446&spm=a230r.7195193.1997079397.6.79b73e0bdXJ062) | Product & resource links |
+
+Support is appreciated but never expected.
+
+---
+
+## Engage
+
+Reading, citing, or exchanging ideas already constitutes meaningful engagement.
+
+This space exists to connect with others working on **energy transition infrastructure**, **electrochemical system design**, and **techno-economic decision-making**.
+
+If there is alignment in interests or objectives, collaboration is welcome.
