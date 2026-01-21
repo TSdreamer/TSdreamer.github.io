@@ -1,8 +1,8 @@
 ---
-title: Welcome to Haotian's Lab
+title: Welcome to Tianyi's Lab
 date: 2024-01-27 11:33:00 +0800
 <author_id>:
-  name: <Haotian MA>
+  name: <Tianyi MA>
   github: <TSdreamer>
   url: <tsdreamer.github.io>
 categories: Lab

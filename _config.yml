@@ -22,7 +22,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Haotian MA # the main title
+title: Tianyi MA # the main title
 
 tagline: Welcome to follow my channel and join me in building a sustainable data-driven future. # it will display as the sub-title
 
@@ -35,20 +35,20 @@ url: "https://tsdreamer.github.io"
 
 
 twitter:
-  username: HaotianM57651  # change to your twitter username
+  username: TianyiM57651  # change to your twitter username
 linkedin:
   username: HTMa # change to your twitter username  
 Instagram:
   username: kirinfly # change to your twitter username  
 
 social:
-  # This website is designed and developed by Mr.Haotian MA.
+  # This website is designed and developed by Mr.Tianyi MA.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Haotian MA
-  email: haotian-ma@outlook.com # change to your email address
+  name: Tianyi MA
+  email: Tianyi-ma@outlook.com # change to your email address
   links: # The first element serves as the copyright owner's link
     - https://github.com/TSdreamer 
-    - https://twitter.com/HaotianM57651 # change to your twitter homepage
+    - https://twitter.com/TianyiM57651 # change to your twitter homepage
     - https://www.instagram.com/kirinfly/
     - https://www.linkedin.com/in/htma/
 
@@ -98,7 +98,7 @@ comments:
   active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname:   haotian-ma-com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname:   Tianyi-ma-com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo:        tsdreamer/tsdreamer.github.io # <gh-username>/<repo>

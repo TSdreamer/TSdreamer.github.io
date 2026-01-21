@@ -5,9 +5,9 @@ order: 6
 ---
 
 
-# 🤝 It is a testing page of HAOTIAN !
+# 🤝 It is a testing page of Tianyi !
 
-This site is self-hosted, and Haotian's independent work is conducted by himself. His work can be classified based on his experience across five different research institutes. However, the project is currently in the testing stage and still under development.
+This site is self-hosted, and Tianyi's independent work is conducted by himself. His work can be classified based on his experience across five different research institutes. However, the project is currently in the testing stage and still under development.
 
 
 <div style="text-align: center; width: 100%;">

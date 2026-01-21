@@ -1,8 +1,8 @@
 ---
-title: Hello , I am HaoTian
+title: Hello , I am Tianyi
 date: 2024-01-28 12:00:00 -500
 <author_id>:
-  name: <Haotian MA>
+  name: <Tianyi MA>
   github: <TSdreamer>
   url: <tsdreamer.github.io>
 pin: true
@@ -51,7 +51,7 @@ console.log('hello world!');
 ```
 
 ```yml
-name: 'Haotian MA's lab'
+name: 'Tianyi MA's lab'
 
 jobs:
   build:

@@ -2,7 +2,7 @@
 title: 01232024 weekly update
 date: 2024-01-22 01:13:00 +0000
 <author_id>:
-  name: <Haotian MA>
+  name: <Tianyi MA>
   github: <TSdreamer>
   url: <tsdreamer.github.io>
 categories: [PhD Life]
