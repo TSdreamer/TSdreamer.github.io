@@ -31,7 +31,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://tianyma.github.io"
+url: "https://tsdreamer.github.io" # the base hostname & protocol for your site
 
 
 twitter:
@@ -47,7 +47,7 @@ social:
   name: Tianyi MA
   email: Tianyi-ma@outlook.com # change to your email address
   links: # The first element serves as the copyright owner's link
-    - https://github.com/TSdreamer 
+    - https://github.com/TianyMa
     - https://twitter.com/TianyiM57651 # change to your twitter homepage
     - https://www.instagram.com/kirinfly/
     - https://www.linkedin.com/in/htma/
