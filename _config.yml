@@ -37,7 +37,7 @@ url: "https://tsdreamer.github.io" # the base hostname & protocol for your site
 twitter:
   username: TianyiM57651  # change to your twitter username
 linkedin:
-  username: HTMa # change to your twitter username  
+  username: TYMa # change to your twitter username  
 Instagram:
   username: kirinfly # change to your twitter username  
 
@@ -50,7 +50,7 @@ social:
     - https://github.com/TianyMa
     - https://twitter.com/TianyiM57651 # change to your twitter homepage
     - https://www.instagram.com/kirinfly/
-    - https://www.linkedin.com/in/htma/
+    - https://www.linkedin.com/in/tyma/
 
 google_site_verification: # fill in to your verification string
 
@@ -85,7 +85,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'assets/img/profile.jpg'
+avatar: 'assets/img/profile.png'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -98,14 +98,14 @@ comments:
   active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname:   Tianyi-ma-com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname:   Tianyi-Ma-com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo:        tsdreamer/tsdreamer.github.io # <gh-username>/<repo>
+    repo:        tianyma/tianyma.github.io # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: TSdreamer/TSdreamer.github.io
+    repo: tianyma/tianyma.github.io
     repo_id: 746808097
     category: Comments
     category_id: DIC_kwDOLINjIc4Cc7Vt
